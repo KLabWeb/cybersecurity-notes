@@ -20,4 +20,4 @@ Notes are organized by topic and grow as I move through the plan. They also serv
 
 ## Related
 
-- [Study plan](https://github.com/KLabWeb/cybersecurity-study-guide) — the full curriculum
+- [Study Plan](https://github.com/KLabWeb/cybersecurity-study-guide) — the full curriculum

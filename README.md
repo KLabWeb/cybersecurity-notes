@@ -30,3 +30,4 @@ This repo also contains my study tracker. All my studies are logged here, on a t
 ## Related
 
 - [Study Plan](https://github.com/KLabWeb/cybersecurity-study-guide) — the full curriculum
+- [FastAPI Refresher App](https://github.com/KLabWeb/cybsecurity-fastapi-app) - Refresher app and local lab app

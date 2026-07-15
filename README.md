@@ -4,6 +4,12 @@ Study notes taken while working through my structured [application security stud
 
 Notes are organized by topic and grow as I move through the plan. They also serve as the raw material for my interview-prep note cards and for sharing with others wishing to learn more on cyb or transition to cyb themselves.
 
+# Study Tracker
+
+This repo also contains my study tracker. All my studies are logged here, on a task-by-task, day-by-day, week-by-week basis. The tracker provides a window into what I am working on each day as I complete this plan and move to an AppSec Eng role.
+
+- **[Study Tracker](./2026%20Cybersecurity%20(AppSec%20Eng)%20Tracker.pdf)**
+
 ## Completed Notes
 - **[Intro to Cybersecurity](./Intro%20to%20Cybersecurity.pdf)**
 

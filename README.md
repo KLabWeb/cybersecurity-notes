@@ -5,7 +5,7 @@ Study notes taken while working through my structured [application security stud
 Notes are organized by topic and grow as I move through the plan. They also serve as the raw material for my interview-prep note cards and for sharing with others wishing to learn more on cyb or transition to cyb themselves.
 
 ## Completed Notes
-- **[Intro to Cybersecurity](./Intro%20to%20Cybersecurity.pdf)**.
+- **[Intro to Cybersecurity](./Intro%20to%20Cybersecurity.pdf)**
 
 ## Ongoing Notes
 

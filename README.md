@@ -9,7 +9,7 @@ Notes are organized by phase and topic and grow as I move through the plan. They
 - **[Intro to Cybersecurity](./Phase%2000/0-0%20Intro%20to%20Cybersecurity.pdf)**
 
 ## Ongoing Notes
-
+- **[FastAPI Official Docs](./Phase%2000/00-03%20FastAPI%20Notes.pdf)**
 
 ## Planned Notes
 

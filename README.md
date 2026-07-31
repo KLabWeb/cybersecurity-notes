@@ -7,7 +7,7 @@ Notes are organized by phase and topic and grow as I move through the plan. They
 
 ## Completed Notes
 - **[Intro to Cybersecurity](./Phase%2000/0-0%20Intro%20to%20Cybersecurity.pdf)**
-- **[Cookies](./Phase%2000/00-02%20Cookies%20Notes.pdf)
+- **[Cookies](./Phase%2000/00-02%20Cookies%20Notes.pdf)**
 
 ## Ongoing Notes
 - **[FastAPI Official Docs](./Phase%2000/00-03%20FastAPI%20Notes.pdf)**

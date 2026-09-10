@@ -13,9 +13,9 @@ I also use these notes as the basis for notecards, which can be used for even fa
 
 Yes, time to take the notes, the note cards, but in doing so (in combo with PLENTY of project work too, of course), concrete, easy to remember, and well grasped foundations, concepts, and details.
 
-
+00-00 Intro to Cybersecurity.pdf
 ## Completed Notes
-- **[Intro to Cybersecurity](./Phase%2000/0-0%20Intro%20to%20Cybersecurity.pdf)**
+- **[Intro to Cybersecurity](./Phase%2000/00-00%20Intro%20to%20Cybersecurity.pdf)**
 - **[Cookies](./Phase%2000/00-02%20Cookies%20Notes.pdf)**
 - **[FastAPI](./Phase%2000/00-03%20FastAPI%20Notes.pdf)**
 

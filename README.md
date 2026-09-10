@@ -17,7 +17,7 @@ Yes, time to take the notes, the note cards, but in doing so (in combo with PLEN
 ## Completed Notes
 - **[Intro to Cybersecurity](./Phase%2000/0-0%20Intro%20to%20Cybersecurity.pdf)**
 - **[Cookies](./Phase%2000/00-02%20Cookies%20Notes.pdf)**
-- **[FastAPI Official Docs](./Phase%2000/00-03%20FastAPI%20Notes.pdf)**
+- **[FastAPI](./Phase%2000/00-03%20FastAPI%20Notes.pdf)**
 
 ## Ongoing Notes
 - **[TryHackMe Notes](./Multiple%20Phases/TryHackMe%20Notes.pdf)**

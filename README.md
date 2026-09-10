@@ -17,13 +17,14 @@ Yes, time to take the notes, the note cards, but in doing so (in combo with PLEN
 ## Completed Notes
 - **[Intro to Cybersecurity](./Phase%2000/0-0%20Intro%20to%20Cybersecurity.pdf)**
 - **[Cookies](./Phase%2000/00-02%20Cookies%20Notes.pdf)**
+- **[FastAPI Official Docs](./Phase%2000/00-03%20FastAPI%20Notes.pdf)**
 
 ## Ongoing Notes
-- **[FastAPI Official Docs](./Phase%2000/00-03%20FastAPI%20Notes.pdf)**
+- **[TryHackMe Notes](./Multiple%20Phases/TryHackMe%20Notes.pdf)**
 
 ## Planned Notes
 
-- HTTP, web architecture, authentication, and sessions
+- Web Architecture, Authentication, and Sessions
 - The OWASP Top 10 and the core web vulnerability classes
 - Security tooling — Burp Suite, SAST / DAST / SCA, secrets scanning
 - Cloud security (AWS), secure code review, and threat modeling

@@ -20,6 +20,7 @@ Yes, time to take the notes, the note cards, but in doing so (in combo with PLEN
 
 ## Ongoing Notes
 - **[TryHackMe Notes](./Multiple%20Phases/TryHackMe%20Notes.pdf)**
+- **[Real-World Bug Hunting Notes](./Multiple%20Phases/Real-World%20Bug%20Hunting%20Notes.pdf)**
 
 ## Planned Notes
 
